@@ -9,9 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "antd": "^4.23.2",
+    "breeze-form": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "breeze-form": "*"
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
